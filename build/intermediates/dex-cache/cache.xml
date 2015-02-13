@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\user1\AndroidstudioProjects\NXTBotGuard\app\libs\nxtlib.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="245728ac0b4433c6ea373a3ea5acf2550cab96cd">
+        <dex dex="D:\Users\user1\AndroidstudioProjects\NXTBotGuard\app\build\intermediates\pre-dexed\debug\nxtlib-5ab0a6fca81424cd164c63cfba3680f3ba47b58e.jar" />
+    </item>
+
+</items>
